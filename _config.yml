@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Diego
-last_name: Hernández
+last_name: Hernández Antón
 contact_note: >
   You can contact me by email or via LinkedIn.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -16,7 +16,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: diego_resized.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 apple_touch_icon: diego_resized.png # image name in /assets/img/ (or a rooted path / absolute URL) used for iOS home-screen bookmarks; needs a real 180x180 PNG
 
-url: https://Diiego-H.github.io
+url: https://Diiego-HA.github.io
 baseurl:
 last_updated: true # set to true if you want to display last updated in the footer
 back_to_top: true # set to false to disable the back to top button
