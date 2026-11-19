@@ -102,3 +102,5 @@
   border-radius: 6px;
   box-shadow: 0 8px 40px rgba(0, 0, 0, 0.35);
 }
+
+/* The DOI stays in the BibTeX popup (Bib button) but gets no button of its own. */
