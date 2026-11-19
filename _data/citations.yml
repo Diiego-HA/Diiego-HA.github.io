@@ -1,0 +1,11 @@
+metadata:
+  last_updated: '2026-11-19'
+papers:
+  6SBoE-YAAAAJ:2osOgNQ5qMEC:
+    citations: 1
+    title: 'MV-Fashion: Towards Enabling Virtual Try-On and Size Estimation with Multi-View Paired Data'
+    year: '2026'
+  6SBoE-YAAAAJ:u-x6o8ySG0sC:
+    citations: 1
+    title: 'NumColor: Precise Numeric Color Control in Text-to-Image Generation'
+    year: '2026'
